@@ -19,7 +19,8 @@ ExitCustomer
 Gender  
 Geography  
 Primary key from each dimension table is mapped to foreign key from fact table  
-![Screenshot (208)](https://github.com/nishidha89/Bank-Customer-Churn-Analysis-using-PowerBI/assets/78490621/a1369636-d870-455b-9a12-fb45caafde29)  
+![Screenshot (230)](https://github.com/nishidha89/Bank-Customer-Churn-Analysis-using-PowerBI/assets/78490621/1f663c7f-9eb0-402e-8546-c49cb5dcf47d)
+
 
 # Data Analysis and visuals
 ![Screenshot (214)](https://github.com/nishidha89/Bank-Customer-Churn-Analysis-using-PowerBI/assets/78490621/4707847b-0823-4313-ab1b-4edc5040377a)  
