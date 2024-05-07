@@ -5,7 +5,7 @@ Customer churn, also referred to as customer attrition, happens when customers e
 To understand and analyse the factors that contribute to customer churn from bank
 
 # Data Source
-Data is from RYC bank(Royal Bank of Canada)
+Data is from RYC bank(Royal Bank of Canada)  
 Link of files: https://drive.google.com/drive/folders/1WlPwjiQe0AsjB0KF-HrFyK5ukJgfGYGT?usp=drive_link
 
 # Data Modelling
