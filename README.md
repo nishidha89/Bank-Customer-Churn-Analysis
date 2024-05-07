@@ -23,7 +23,7 @@ Primary key from each dimension table is mapped to foreign key from fact table
 
 # Data Analysis and visuals
 ![Screenshot (214)](https://github.com/nishidha89/Bank-Customer-Churn-Analysis-using-PowerBI/assets/78490621/4707847b-0823-4313-ab1b-4edc5040377a)  
-From above visuals:  
+From above visuals we could discover the following insights:    
 The joining of customers increases from 2016 to 2019  
 The number of exit customers are more in September and November  
 69.91% of exit customers holds credit card and 30.09% of exit customers are non credit card holders  
