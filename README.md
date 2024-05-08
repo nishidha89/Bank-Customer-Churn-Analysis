@@ -42,15 +42,14 @@ Most of the customers belong to France country.
 Germany contains more number of exit customers i.e 814 followed by France which contains 810 exit customers.  
 
 # Conclusion  
-
-In 2019, the bank had the highest number of customers, with 3.3K joining.  
-In September and November, there were a higher number of exiting customers.  
-Customers with poor credit scores purchase more number of products from bank like insurance,loans etc.    
-Womens are more likely to churn than males.  
-In March 2017 there was 30% churn rate which was highest than other years.    
-InActive members are more likely to churn.    
-Customers with higher credit score are less likely to leave bank.    
-The percentage of active customers are more than inactive customers.   
-In Germany, there are a higher number of exiting customers.    
+* In 2019, the bank had the highest number of customers, with 3.3K joining.  
+* In September and November, there were a higher number of exiting customers.  
+* Customers with poor credit scores purchase more number of products from bank like insurance,loans etc.    
+* Womens are more likely to churn than males.  
+* In March 2017 there was 30% churn rate which was highest than other years.    
+* InActive members are more likely to churn.    
+* Customers with higher credit score are less likely to leave bank.    
+* The percentage of active customers are more than inactive customers.   
+* In Germany, there are a higher number of exiting customers.    
 
 
