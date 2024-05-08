@@ -52,4 +52,9 @@ Germany contains more number of exit customers i.e 814 followed by France which 
 * The percentage of active customers are more than inactive customers.   
 * In Germany, there are a higher number of exiting customers.    
 
+# Recommendations
+* Provide financial advice and investment solutions for diverse customer groups.  
+* Increase customer awareness about the benefits of keeping a good credit score.  
+* Introduce digital products and use schemes to attract customers of various ages.  
+
 
