@@ -31,7 +31,12 @@ The number of exit customers are more in September and November
 55.92% of exit customers comprises of females and 44.08% of exit customers comprises of males  
 Customers whose credit type is Fair buys more products  
 
-![Screenshot (225)](https://github.com/nishidha89/Bank-Customer-Churn-Analysis-using-PowerBI/assets/78490621/c24fa8d6-fd6d-49c4-b9ed-2872aa9ce9f2)
+![Screenshot (225)](https://github.com/nishidha89/Bank-Customer-Churn-Analysis-using-PowerBI/assets/78490621/c24fa8d6-fd6d-49c4-b9ed-2872aa9ce9f2)  
+30% churn rate happened in January 2017 which is highest than other years.    
+exit customers with Fair credit type are moew i.e 685.  
+Churned rate of inactive members are more i.e 65.3%.  
+There are more number of exit customers in 2019 i.e 658 as more number of customers join bank in 2019.  
+Most of the customers belong to France country.  
 
 ![Screenshot (227)](https://github.com/nishidha89/Bank-Customer-Churn-Analysis-using-PowerBI/assets/78490621/2d5c1c9f-d8e5-4b7a-a06f-16fa3538ee6e)
 Germany contains more number of exit customers i.e 814 followed by France which contains 810 exit customers.  
