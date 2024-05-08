@@ -17,7 +17,7 @@ Link of files: https://drive.google.com/drive/folders/1WlPwjiQe0AsjB0KF-HrFyK5uk
 3. CustomerInfo  
 4. ExitCustomer  
 5. Gender  
-6. Geography  
+6. Geography
 Primary key from each dimension table is mapped to foreign key from fact table  
 ![Screenshot (230)](https://github.com/nishidha89/Bank-Customer-Churn-Analysis-using-PowerBI/assets/78490621/1f663c7f-9eb0-402e-8546-c49cb5dcf47d)
 
