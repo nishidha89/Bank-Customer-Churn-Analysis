@@ -9,15 +9,15 @@ Data is from RBC bank(Royal Bank of Canada)
 Link of files: https://drive.google.com/drive/folders/1WlPwjiQe0AsjB0KF-HrFyK5ukJgfGYGT?usp=drive_link
 
 # Data Modelling
-The relationship between the tables refers to star schema
-There are 7 Dimension tables and 1 Fact table
-Dimension tables includes:
-ActiveCustomer  
-CreditCard  
-CustomerInfo  
-ExitCustomer  
-Gender  
-Geography  
+* The relationship between the tables refers to star schema
+* There are 7 Dimension tables and 1 Fact table
+* Dimension tables includes:
+1. ActiveCustomer  
+2. CreditCard  
+3. CustomerInfo  
+4. ExitCustomer  
+5. Gender  
+6. Geography  
 Primary key from each dimension table is mapped to foreign key from fact table  
 ![Screenshot (230)](https://github.com/nishidha89/Bank-Customer-Churn-Analysis-using-PowerBI/assets/78490621/1f663c7f-9eb0-402e-8546-c49cb5dcf47d)
 
