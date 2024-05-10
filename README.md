@@ -23,17 +23,19 @@ Primary key from each dimension table is mapped to foreign key from fact table
 
 
 # Data Analysis and visuals
-<img width="626" alt="image" src="https://github.com/nishidha89/Bank-Customer-Churn-Analysis-using-PowerBI/assets/78490621/871b986f-ca96-4b43-abf8-6929fb3a39ae">
+![Screenshot (238)](https://github.com/nishidha89/Bank-Customer-Churn-Analysis-using-PowerBI/assets/78490621/98715ce5-aa8c-4a0e-bf7a-b7d322c038ff)
 
 From above visuals we could discover the following insights:    
 * The joining of customers increases from 2016 to 2019  
 * The number of exit customers are more in September and November  
 * 69.91% of exit customers holds credit card and 30.09% of exit customers are non credit card holders  
 * 55.92% of exit customers comprises of females and 44.08% of exit customers comprises of males  
-* Customers whose credit type is Fair buys more products  
+ 
 
-![Screenshot (225)](https://github.com/nishidha89/Bank-Customer-Churn-Analysis-using-PowerBI/assets/78490621/c24fa8d6-fd6d-49c4-b9ed-2872aa9ce9f2)  
-![Screenshot (235)](https://github.com/nishidha89/Bank-Customer-Churn-Analysis-using-PowerBI/assets/78490621/568e5d61-fc72-4fc8-a93f-33f9099c6ccf)  
+![Screenshot (240)](https://github.com/nishidha89/Bank-Customer-Churn-Analysis-using-PowerBI/assets/78490621/fab91f2a-6158-4ff4-b70a-93473d7884eb)
+
+![Screenshot (246)](https://github.com/nishidha89/Bank-Customer-Churn-Analysis-using-PowerBI/assets/78490621/6c6961ee-ab11-47ef-b315-c44b961378a5)
+
 
 * 30% churn rate happened in January 2017 which is highest than other years.    
 * Exit customers with Fair credit type are more i.e 685.  
@@ -43,13 +45,13 @@ From above visuals we could discover the following insights:
 * The percentage of active customers are more than inactive customers.  
 
 
-![Screenshot (227)](https://github.com/nishidha89/Bank-Customer-Churn-Analysis-using-PowerBI/assets/78490621/2d5c1c9f-d8e5-4b7a-a06f-16fa3538ee6e)
+![Screenshot (242)](https://github.com/nishidha89/Bank-Customer-Churn-Analysis-using-PowerBI/assets/78490621/88add2a3-0a79-471d-8b7a-89050b88e8aa)
+
 * Germany contains more number of exit customers i.e 814 followed by France which contains 810 exit customers.  
 
 # Conclusion  
 * In 2019, the bank had the highest number of customers, with 3.3K joining.  
 * In September and November, there were a higher number of exiting customers.  
-* Customers with poor credit scores purchase more number of products from bank like insurance,loans etc.    
 * Womens are more likely to churn than males.  
 * In March 2017 there was 30% churn rate which was highest than other years.    
 * InActive members are more likely to churn.    
