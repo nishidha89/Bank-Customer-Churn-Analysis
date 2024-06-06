@@ -2,7 +2,8 @@
 
 Customer churn, also referred to as customer attrition, happens when customers end their association with a business.In the context of banking, customer attrition occurs when customers close their accounts or discontinue utilizing services of a particular bank. Effectively understanding and managing customer attrition are crucial for banks to maintain financial stability and safeguard their reputation.
 # Objective
-To understand and analyse the factors that contribute to customer churn from bank and to find out the ways to reduce churn.
+To understand and analyse the factors that contribute to customer churn from bank 
+To provide recommendations to bank in order to mitigate churn.
 
 # Data Source
 Data is from RBC bank(Royal Bank of Canada)  
