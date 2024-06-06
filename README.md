@@ -8,6 +8,10 @@ To understand and analyse the factors that contribute to customer churn from ban
 Data is from RBC bank(Royal Bank of Canada)  
 Link of files: https://drive.google.com/drive/folders/1WlPwjiQe0AsjB0KF-HrFyK5ukJgfGYGT?usp=drive_link
 
+# Data Cleaning/Preparation
+* Removed irrelevant columns that are not related to customer churn.
+* Done date formatting for consistency.
+
 # Data Modelling
 * The relationship between the tables refers to star schema
 * There are 7 Dimension tables and 1 Fact table
